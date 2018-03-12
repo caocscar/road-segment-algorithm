@@ -1,0 +1,9 @@
+# Shapefiles
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+
+# Text Files
+*.csv
